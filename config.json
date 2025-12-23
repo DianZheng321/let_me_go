@@ -1,0 +1,19 @@
+{
+    "work_periods": [
+        {
+            "start": "09:00",
+            "end": "18:00"
+        }
+    ],
+    "block_periods": [
+        {
+            "start": "12:00",
+            "end": "13:30"
+        }
+    ],
+    "interval_minutes": 60,
+    "auto_start": false,
+    "workdays": [1, 2, 3, 4, 5],
+    "off_work_time": "18:00",
+    "off_work_reminder_enabled": true
+}
